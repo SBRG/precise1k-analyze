@@ -1,6 +1,6 @@
 # PRECISE-1K - Analyze New Data
 
-This is a lightweight repository facilitating analysis of _E. coli_ RNA-seq data against the PRECISE-1K expression knowledgebase and its associated iModulons ((publication)[https://www.biorxiv.org/content/10.1101/2021.04.08.439047v2])
+This is a lightweight repository facilitating analysis of _E. coli_ RNA-seq data against the PRECISE-1K expression knowledgebase and its associated iModulons ([publication](https://www.biorxiv.org/content/10.1101/2021.04.08.439047v2))
 
 Here are the steps needed to get started with analysis using this resource:
 
@@ -8,7 +8,7 @@ Here are the steps needed to get started with analysis using this resource:
 
 Ensure you have Python 3.6+, Jupyter (`pip install jupyterlab`), and the iModulon analysis package `pymodulon` installed (`pip install pymodulon`). 
 
-`pymodulon` documentation can be found (here)[https://pymodulon.readthedocs.io/en/latest/index.html].
+`pymodulon` documentation can be found [here](https://pymodulon.readthedocs.io/en/latest/index.html).
 
 Installing `pymodulon` using `pip` will install all other needed packages.
 
@@ -26,6 +26,6 @@ Detailed instructions for the required format of these files, along with instruc
 
 ## Additional Information
 
-The (main PRECISE-1K repository)[https://github.com/SBRG/precise1k] contains the data and notebooks used to generate PRECISE-1K, its iModulons, and analyses/figures for the associated publication. 
+The [main PRECISE-1K repository](https://github.com/SBRG/precise1k) contains the data and notebooks used to generate PRECISE-1K, its iModulons, and analyses/figures for the associated publication. 
 
-Please cite our (Biorxiv preprint)[https://www.biorxiv.org/content/10.1101/2021.04.08.439047v2] if you find this repository useful! This link will be updated when this work is published.
+Please cite our [Biorxiv preprint](https://www.biorxiv.org/content/10.1101/2021.04.08.439047v2) if you find this repository useful! This link will be updated when this work is published.

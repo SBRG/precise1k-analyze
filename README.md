@@ -1,5 +1,7 @@
 # PRECISE-1K - Analyze New Data
 
+[![DOI](https://zenodo.org/badge/626645816.svg)](https://zenodo.org/badge/latestdoi/626645816)
+
 This is a lightweight repository facilitating analysis of _E. coli_ RNA-seq data against the PRECISE-1K expression knowledgebase and its associated iModulons ([publication](https://www.biorxiv.org/content/10.1101/2021.04.08.439047v2))
 
 Here are the steps needed to get started with analysis using this resource:
